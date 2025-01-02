@@ -1,5 +1,5 @@
 # 💫 About Me:
-Análise e Desenvolvimento de Sistemas 3/4 👨‍💻
+Análise e Desenvolvimento de Sistemas🎓
 
 
 ## 🌐 Socials:
