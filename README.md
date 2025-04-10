@@ -1,24 +1,113 @@
-# 💫 About Me:
-Análise e Desenvolvimento de Sistemas🎓
+<div align="center">
 
+# Enzo Ferracini Patti
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ilelofpp) 
+🎓 Computer Science Student • 💼 Technical Assistant @ SENAI  
+📍 São Paulo, Brazil  
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=efpatti&theme=monokai&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=efpatti&theme=monokai&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=efpatti&theme=monokai&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/efpatti)  
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:efpatti.dev@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511978833101)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=efpatti&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=efpatti&limit=5&theme=monokai&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=efpatti&icon=0&color=9)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
+![Bash](https://img.shields.io/badge/-Bash-000?style=for-the-badge&logo=gnubash)
+
+**Frontend**  
+![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js)
+![Vite](https://img.shields.io/badge/-Vite-000?style=for-the-badge&logo=vite)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
+![ChakraUI](https://img.shields.io/badge/-Chakra_UI-000?style=for-the-badge&logo=chakra-ui)
+![Shadcn UI](https://img.shields.io/badge/-Shadcn_UI-000?style=for-the-badge&logo=ui-ux&logoColor=white)
+![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass)
+![Styled Components](https://img.shields.io/badge/-Styled_Components-000?style=for-the-badge&logo=styled-components)
+
+**State Management**  
+![Redux](https://img.shields.io/badge/-Redux-000?style=for-the-badge&logo=redux)
+![Context API](https://img.shields.io/badge/-Context_API-000?style=for-the-badge&logo=react)
+
+**Backend**  
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
+![Django](https://img.shields.io/badge/-Django-000?style=for-the-badge&logo=django)
+![Express](https://img.shields.io/badge/-Express.js-000?style=for-the-badge&logo=express)
+
+**Databases**  
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
+
+**Tools & DevOps**  
+![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
+![Axios](https://img.shields.io/badge/-Axios-000?style=for-the-badge&logo=axios)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+- 🔐 [**Bartira**](https://github.com/efpatti/bartira)  
+  ERP system with JWT authentication, CRUD operations, financial control, and modular design. Built with Chakra UI, Node.js, and MySQL.
+
+- 🌦️ [**Tempo CEP**](https://github.com/efpatti/tempo-cep)  
+  Integration of two APIs (Correios & Weather) for automatic address and temperature lookup. React, TailwindCSS, Axios.
+
+- 👥 [**Sistema Cadastro**](https://github.com/efpatti/sistema-cadastro)  
+  Fullstack user registration system developed with React, Node.js, and MySQL. Built for academic use and class demos.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center" style="display: flex; justify-content: center; gap: 16px; flex-wrap: wrap;">
+
+  <div style="width: 420px; height: 210px; display: flex; align-items: center; justify-content: center;">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/efpatti?cardType=level&theme=github-dark&preferLogin=true" style="max-width: 100%; max-height: 100%;" />
+  </div>
+
+  <div style="width: 420px; height: 210px; display: flex; align-items: center; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=efpatti&layout=compact&theme=github_dark&hide_border=true" style="max-width: 100%; max-height: 100%;" />
+  </div>
+
+</div>
+
+
+---
+
+## 🎓 Education
+
+- **BSc in Computer Science** — USCS *(2025 – 2028)*  
+- **Technical Degree in Systems Development** — SENAI *(2023 – 2024)*
+
+---
+
+## 💼 Experience
+
+**Technical Assistant & Beta Tester**  
+_SENAI São Caetano do Sul • Jan 2023 – Dec 2024_
+
+- Developed and tested classroom coding exercises.
+- Provided technical support and mentoring to students.
+- Took initiative in leading support activities and even substituting the instructor.
+
+---
+
+## 🏅 Awards
+
+**Honors Award** — SENAI São Caetano do Sul  
+🏆 Recognized as the top student in the Systems Development program for outstanding performance and dedication.
+
+---
