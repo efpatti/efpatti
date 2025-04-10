@@ -72,17 +72,25 @@
 
 ## 📊 GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center; gap: 16px;">
+<div align="center">
+  
+<table>
+<tr>
+<td valign="top" style="padding: 0; margin: 0;">
+  
+<img src="https://awesome-github-stats.azurewebsites.net/user-stats/efpatti?cardType=level&theme=github-dark&preferLogin=true"  />
 
-  <div style="width: 420px; height: 210px; display: flex; align-items: center; justify-content: center;">
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/efpatti?cardType=level&theme=github-dark&preferLogin=true" style="max-width: 100%; max-height: 100%;" />
-  </div>
+</td>
+<td valign="top" style="padding: 0; margin: 0;">
 
-  <div style="width: 420px; height: 210px; display: flex; align-items: center; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=efpatti&layout=compact&theme=github_dark&hide_border=true" style="max-width: 100%; max-height: 100%;" />
-  </div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=efpatti&layout=compact&theme=github_dark&hide_border=true" />
+
+</td>
+</tr>
+</table>
 
 </div>
+
 
 
 ---
