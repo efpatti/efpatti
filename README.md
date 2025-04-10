@@ -81,13 +81,13 @@
         </a>
       </td>
       <td style="vertical-align: middle; border: none;">
-        <img src="https://streak-stats.demolab.com/?user=efpatti&theme=shades-of-purple&hide_border=true"
+        <img src="https://streak-stats.demolab.com/?user=efpatti&theme=shades-of-purple&hide_border=false"
              alt="efpatti's Streak"
              width="400"
              onerror="this.onerror=null; this.src='https://via.placeholder.com/400x150?text=Streak+indisponível';" />
       </td>
       <td style="vertical-align: middle; border: none;">
-        <img alt="efpatti's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efpatti&theme=shades-of-purple&show_icons=true&hide_border=true&layout=compact" width="300" />
+        <img alt="efpatti's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efpatti&theme=shades-of-purple&show_icons=true&hide_border=false&layout=compact" width="300" />
       </td>
     </tr>
   </table>
