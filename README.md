@@ -77,21 +77,20 @@
 <table>
 <tr>
 <td valign="top" style="padding: 0; margin: 0;">
-  
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=github-dark&preferLogin=true">    <img  alt="efpatti's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/efpatti?cardType=level&theme=github-dark&preferLogin=true" />  </a>
-
+  <a href="https://awesome-github-stats.azurewebsites.net/user-stats/efpatti?cardType=level&theme=shades-of-purple&preferLogin=true">
+    <img alt="efpatti's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/efpatti?cardType=level&theme=shades-of-purple&preferLogin=true" width="400" height="200" />
+  </a>
 </td>
 <td valign="top" style="padding: 0; margin: 0;">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=efpatti&layout=compact&theme=github_dark&hide_border=true" />
-
+  <img alt="efpatti's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=efpatti&theme=shades-of-purple&hide_border=true" width="400" height="200" />
+</td>
+<td valign="top" style="padding: 0; margin: 0;">
+  <img alt="efpatti's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efpatti&theme=shades-of-purple&show_icons=true&hide_border=true&layout=compact" width="400" height="200" />
 </td>
 </tr>
 </table>
 
 </div>
-
-
 
 ---
 
