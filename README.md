@@ -78,7 +78,7 @@
 <tr>
 <td valign="top" style="padding: 0; margin: 0;">
   
-<img src="https://awesome-github-stats.azurewebsites.net/user-stats/efpatti?cardType=level&theme=github-dark&preferLogin=true"  />
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=github-dark&preferLogin=true">    <img  alt="efpatti's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/efpatti?cardType=level&theme=github-dark&preferLogin=true" />  </a>
 
 </td>
 <td valign="top" style="padding: 0; margin: 0;">
