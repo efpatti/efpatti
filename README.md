@@ -59,13 +59,13 @@
 
 ## 🚀 Featured Projects
 
-- 🔐 [**Bartira**](https://github.com/efpatti/bartira)  
+- [**Bartira**](https://github.com/efpatti/bartira)  
   ERP system with JWT authentication, CRUD operations, financial control, and modular design. Built with Chakra UI, Node.js, and MySQL.
 
-- 🌦️ [**Tempo CEP**](https://github.com/efpatti/tempo-cep)  
+- [**Tempo CEP**](https://github.com/efpatti/tempo-cep)  
   Integration of two APIs (Correios & Weather) for automatic address and temperature lookup. React, TailwindCSS, Axios.
 
-- 👥 [**Sistema Cadastro**](https://github.com/efpatti/sistema-cadastro)  
+- [**Sistema Cadastro**](https://github.com/willreis/sistema-cadastro)  
   Fullstack user registration system developed with React, Node.js, and MySQL. Built for academic use and class demos.
 
 ---
