@@ -72,7 +72,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center; gap: 16px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; gap: 16px;">
 
   <div style="width: 420px; height: 210px; display: flex; align-items: center; justify-content: center;">
     <img src="https://awesome-github-stats.azurewebsites.net/user-stats/efpatti?cardType=level&theme=github-dark&preferLogin=true" style="max-width: 100%; max-height: 100%;" />
